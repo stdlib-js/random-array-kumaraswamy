@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-array-kumaraswamy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create an array containing pseudorandom numbers drawn from Kumaraswamy's double bounded distribution.",
   "license": "Apache-2.0",
   "author": {
